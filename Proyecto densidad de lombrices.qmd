@@ -1,0 +1,96 @@
+---
+title: "Las combinaciones alternativas de prácticas de labranza y rotación de cultivos pueden favorecer la densidad de lombrices de tierra y la bioturbación."
+
+subtitle: "Trabajo realizado por: Briyid Maria Palacio Salgado
+
+  Facultad de ciencias básicas, Biología, Universidad del atlántico
+
+  DOI del artículo: 10.1016/j.apsoil.2022.104460
+
+  DOI de Dryad: 10.5061/dryad.3j9kd51m4"
+
+author: "Kaisa A. Torppa, Astrid R. Taylor."
+date: "2026-11-15"
+
+format:
+  pdf:
+    toc: true
+    number-sections: true
+
+bibliography: references.bib
+
+editor: visual
+---
+
+# Introducción
+
+Las lombrices de tierra constituyen un componente fundamental de la fauna del suelo debido a su participación en diferentes procesos ecológicos que contribuyen al mantenimiento de su calidad y funcionamiento. Estos organismos son considerados ingenieros del ecosistema, ya que, mediante sus actividades de excavación, alimentación y producción de excrementos, modifican las propiedades físicas, químicas y biológicas del suelo. Entre sus principales funciones se encuentran la descomposición de la materia orgánica, el reciclaje de nutrientes, la formación de agregados y la modificación de la estructura del suelo, favoreciendo así procesos esenciales para el desarrollo de los ecosistemas terrestres [@blouin2013]
+
+En los sistemas agrícolas, la presencia de lombrices de tierra adquiere especial importancia, puesto que sus actividades contribuyen a mejorar las condiciones del suelo y pueden favorecer la productividad de los cultivos. Una investigación de van Groenigen et al. (2014), basada en un metaanálisis, encontró que la presencia de lombrices en agroecosistemas se relacionó con un incremento promedio del 25 % en el rendimiento de los cultivos. Sin embargo, estas poblaciones pueden verse afectadas por diferentes prácticas agrícolas, especialmente aquellas relacionadas con la intensidad de la labranza, debido a que la alteración mecánica del suelo puede modificar sus hábitats, destruir sus galerías y afectar la disponibilidad de recursos alimenticios [@briones2017].
+
+La intensidad de la labranza representa un factor determinante en la abundancia y composición de las comunidades de lombrices. Las prácticas convencionales, como el arado con vertedera, generan una mayor perturbación del suelo en comparación con los sistemas de labranza reducida o siembra directa. Estos cambios no afectan de la misma manera a todos los grupos ecológicos de lombrices, ya que las especies epigeas y anécicas suelen ser más sensibles a la perturbación mecánica, mientras que las endogeas presentan una tolerancia relativamente mayor. Por otra parte, la diversificación de la rotación de cultivos, especialmente mediante la incorporación de leguminosas, puede favorecer las poblaciones de estos organismos al mejorar la disponibilidad y calidad de los recursos orgánicos presentes en el suelo [@briones2017; [@torppa2022].
+
+Además de su influencia sobre la abundancia y composición de las comunidades, las lombrices desempeñan un papel importante en la bioturbación, proceso que hace referencia al desplazamiento y transformación del suelo como resultado de la actividad de los organismos que lo habitan. En el caso de las lombrices, este proceso ocurre principalmente mediante la excavación de galerías y el paso del suelo a través de su sistema digestivo, seguido de la expulsión de material en forma de excrementos. La bioturbación contribuye a modificar la estructura del suelo y favorece procesos como la aireación, la infiltración de agua y la distribución de nutrientes, por lo que constituye un indicador de la actividad funcional de estos organismos en los ecosistemas agrícolas [@torppa2022].
+
+En este contexto, [@torppa2022] desarrollaron una investigación en un experimento agrícola de larga duración en Suecia, con el propósito de evaluar cómo la intensidad de la labranza y la diversidad de la rotación de cultivos influyen sobre la densidad, composición de la comunidad y actividad funcional de las lombrices de tierra. Para ello, compararon tres sistemas de labranza (convencional, reducida y sin labranza) y dos tipos de rotación de cultivos (simple y diversificada), estimando también la bioturbación anual como una medida de la contribución de estos organismos al funcionamiento del suelo. Este estudio permite comprender la importancia de las prácticas de manejo agrícola sobre las comunidades de lombrices y aporta información relevante para el desarrollo de sistemas de producción más sostenibles.
+
+# Materiales y métodos
+
+## Área de estudio y diseño experimental
+
+Los datos utilizados en este proyecto fueron obtenidos del repositorio científico **Dryad**, donde se encuentra disponible la base de datos asociada al estudio. La investigación original se desarrolló en el sitio experimental Säby, ubicado en Uppsala, al este de Suecia (59°49′58″ N, 17°42′19″ E). El experimento agrícola fue establecido en 2007 y los datos utilizados corresponden al muestreo realizado entre el 12 y el 14 de junio de 2017. El suelo del área se clasifica como Cambisol éutrico, con una textura compuesta por 23,3 % de arcilla, 52,2 % de limo y 24,5 % de arena [@arvidsson2010].
+
+El diseño experimental evaluó dos factores: la intensidad de labranza y la diversidad de la rotación de cultivos. La primera presentó tres tratamientos: labranza convencional, mediante arado de vertedera a 23 cm de profundidad; labranza reducida, utilizando cultivador a una profundidad de 10–12 cm; y ausencia de labranza, mediante siembra directa. Por su parte, las rotaciones de cultivos fueron simple, conformada por trigo y cebada, y diversificada, integrada por trigo, guisantes y colza.
+
+Se empleó un diseño de parcelas divididas (split plot), en el que las dos rotaciones de cultivos constituyeron los factores principales y los tratamientos de labranza los subfactores (Tabla 1).
+
+**Tabla 1.** Combinaciones experimentales de los tratamientos de labranza y rotación de cultivos.
+
+| Tratamiento | Tipo de labranza | Rotación |
+|:-----------:|:----------------:|:--------:|
+|      1      |   Convencional   |  Simple  |
+|      2      |   Convencional   | Diversa  |
+|      3      |     Reducida     |  Simple  |
+|      4      |     Reducida     | Diversa  |
+|      5      |   Sin labranza   |  Simple  |
+|      6      |   Sin labranza   | Diversa  |
+
+Las seis combinaciones experimentales se distribuyeron en tres bloques de repetición, con parcelas de 9 × 21 m. Los residuos vegetales se dejaron en el terreno después de la cosecha y se incorporaron al suelo en los tratamientos de labranza convencional y reducida.
+
+## Muestreo e identificación de lombrices
+
+El muestreo de lombrices se realizó mediante excavación y búsqueda manual. En cada parcela de la rotación diversificada se recolectaron cuatro muestras, mientras que en las parcelas de rotación simple se tomaron dos muestras debido a limitaciones de tiempo.
+
+Para cada muestra se excavó un bloque de suelo de 30 × 30 cm y 20 cm de profundidad. El material extraído se examinó manualmente para recolectar las lombrices presentes. Posteriormente, se aplicaron 2,5 litros de una solución de isotiocianato de alilo (AITC), preparada con una concentración de 100 mg/L, con el propósito de estimular la salida de individuos ubicados a mayor profundidad [@zaborski2003]. Los organismos que emergieron fueron recolectados durante 30 minutos, lavados y conservados en etanol al 99 %.
+
+En el laboratorio se registró el estado de desarrollo de los individuos y los ejemplares adultos, identificados por la presencia de clitelo , fueron determinados hasta el nivel de especie. También se registró la biomasa individual mediante pesaje. Esta se convirtió de peso fresco a peso seco, considerando un contenido de agua del 80 % [@grant1955].
+
+Posteriormente, las lombrices fueron clasificadas en tres grupos ecológicos: epigeas, endogeas y anécicas [@bottinelli2020]. Los individuos juveniles se asignaron a estos grupos utilizando las proporciones de los grupos ecológicos identificados en los ejemplares adultos. Finalmente, las abundancias obtenidas se expresaron como densidad de individuos por metro cuadrado.
+
+La bioturbación se estimó a partir de la cantidad de suelo movilizado mediante la egestión de las lombrices, expresada en gramos de peso seco por metro cuadrado al año (g de peso seco/m²/año) [@taylor2018].
+
+Para calcularla, los investigadores utilizaron las tasas diarias de egestión fecal de los diferentes grupos ecológicos, determinadas previamente en experimentos de laboratorio a 15 °C [@taylor2013]. Estas tasas se multiplicaron por la biomasa de cada grupo de lombrices presente en un metro cuadrado y posteriormente se sumaron para obtener la bioturbación total.
+
+## Análisis estadístico
+
+En el estudio original, los datos se analizaron en R mediante modelos lineales generalizados mixtos (GLMM, con factores aleatorios del diseño experimental) para evaluar la densidad de lombrices según la intensidad de labranza, la diversidad de rotación de cultivos y su interacción, además de PERMANOVA, NMDS y pruebas post hoc de Tukey para la composición de la comunidad. En el proyecto actual, los datos del estudio original se organizaron y exploraron gráfica y estadísticamente en RStudio, tratando la labranza y la rotación como variables categóricas, y la densidad de lombrices y la bioturbación como numéricas.
+
+# Resultados
+
+A partir de los datos obtenidos del estudio de Torppa y Taylor (2022), se realizaron dos representaciones gráficas para analizar la respuesta de las lombrices de tierra frente a diferentes intensidades de labranza y tipos de rotación de cultivos. Se evaluaron la densidad total de lombrices y la bioturbación anual del suelo, considerando los promedios de las parcelas para cada combinación de tratamientos.
+
+![](images/clipboard-1759375482.png)
+
+**Figura 1.** Densidad total de lombrices de tierra según la intensidad de labranza y la rotación de cultivos.
+
+La densidad total de lombrices presentó variaciones entre los tratamientos de labranza y rotación de cultivos. En general, la rotación diversa mostró mayores densidades que la rotación simple, especialmente bajo labranza reducida y ausencia de labranza. El valor más alto se registró en la combinación de rotación diversa y ausencia de labranza (124,07 individuos/m²), mientras que los valores más bajos se observaron en la rotación simple bajo labranza convencional y reducida (44,44 individuos/m² en ambos casos). Estos resultados muestran una tendencia hacia mayores densidades de lombrices en los sistemas con rotación diversa y menor intensidad de labranza (Figura 1).
+
+![**Figura 2.** Bioturbación anual de las lombrices de tierra según la intensidad de labranza y la rotación de cultivos.](images/clipboard-3287609106.png)
+
+La bioturbación anual presentó diferencias entre las combinaciones de labranza y rotación de cultivos. Bajo labranza convencional y reducida, la rotación simple registró mayores valores de bioturbación que la rotación diversa, con promedios de 409,73 y 306,58 g/m²/año, respectivamente. Por el contrario, bajo ausencia de labranza, la rotación diversa presentó una mayor bioturbación (353,26 g/m²/año) en comparación con la rotación simple (260,58 g/m²/año). El menor valor se observó en la rotación diversa bajo labranza reducida (218,19 g/m²/año) (Figura 2).
+
+# Conclusión
+
+Los resultados muestran que la intensidad de la labranza y la diversidad de la rotación de cultivos influyen en la densidad y la actividad funcional de las lombrices de tierra. En general, la rotación diversa presentó mayores densidades de lombrices, especialmente bajo labranza reducida y ausencia de labranza, lo que sugiere que las prácticas agrícolas que generan menor perturbación del suelo pueden favorecer sus poblaciones. Sin embargo, la bioturbación no presentó el mismo comportamiento, ya que sus valores variaron según la combinación de tratamientos. Esto indica que una mayor densidad de lombrices no necesariamente representa una mayor actividad de bioturbación. En conjunto, se destaca la importancia de considerar tanto la abundancia como la función ecológica de estos organismos al evaluar los efectos de las prácticas de manejo agrícola sobre la calidad y el funcionamiento del suelo.
+
+# Referencias
